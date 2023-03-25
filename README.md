@@ -1,4 +1,25 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://DaveBeetle.github.io/kickstarter-landing/)
+# Kickstarter landing
+Welcome to the Kickstarter landing page!
+
+ - [DEMO LINK](https://DaveBeetle.github.io/kickstarter-landing/)
+ - [Figma Design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&t=c30TxunC0vhFjzJZ-0/)
+
+## Description
+Landing page implementation using JavaScript. Added animations.
+The implementation has a desktop version, a tablet version and a mobile version.
+
+## Technologies
+- HTML
+- CSS
+- BEM
+- SASS
+- Flexbox
+- CSS Grid
+- Javascript
+
+## Instructions how to run application locally:
+1. Use 14 version of node.js.
+2. Clone the repository to your local machine.
+3. Open terminal in the project.
+4. Set up project and install necessary packages: `npm instal`.
+5. Add command to terminal: `npm start`.
