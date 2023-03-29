@@ -5,8 +5,8 @@ Welcome to the Kickstarter landing page!
  - [Figma Design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&t=c30TxunC0vhFjzJZ-0/)
 
 ## Description
-Landing page implementation using JavaScript. Added animations.
-The implementation has a desktop version, a tablet version and a mobile version.
+Landing page implementation using JavaScript. Added animations. 
+The implementation has a desktop version, a tablet version and a mobile version. Implemented a slider for tablet and mobile versions.
 
 ## Technologies
 - HTML
