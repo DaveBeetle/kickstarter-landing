@@ -6,7 +6,7 @@ Welcome to the Kickstarter landing page!
 
 ## Description
 Landing page implementation using JavaScript. Added animations. 
-The implementation has a desktop version, a tablet version and a mobile version. Implemented a slider for tablet and mobile versions.
+The implementation has a desktop version, a tablet version and a mobile version. Implemented a slider and side menu for tablet and mobile versions.
 
 ## Technologies
 - HTML
